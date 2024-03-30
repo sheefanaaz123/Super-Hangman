@@ -1,5 +1,4 @@
-
-
+```markdown
 # Decoding Entertainment: An In-Depth Analysis of the Hangman Game - Unraveling the Secrets of Language and Strategy
 
 ## Table of Contents
@@ -10,7 +9,7 @@
 - [Motivation](#motivation)
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [ Instructions to Run the Program](#instructions-to-run-the-program)
+- [Instructions to Run the Program](#instructions-to-run-the-program)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -44,7 +43,6 @@ Implemented in Python, our Hangman Game features a graphical user interface (GUI
 - Intuitive gameplay with informative feedback
 - Visual representation of game state and progress tracking
 
-
 ## Instructions to Run the Program:
 
 1. **Prerequisites:**
@@ -73,8 +71,6 @@ Implemented in Python, our Hangman Game features a graphical user interface (GUI
    - Input your guesses using the provided interface.
    - Try to guess the word before running out of attempts.
 
-```
-
 ## Usage
 To play the Hangman Game, execute the script and follow the on-screen instructions. Input your guesses using the provided interface and try to guess the word before running out of attempts.
 
@@ -90,6 +86,4 @@ This project is licensed under the [MIT License](LICENSE).
 - [Hangman GUI Game with Pygame in Python](https://thepythoncode.com/article/hangman-gui-game-with-pygame-in-python)
 - [Hangman Game in Python](https://codefather.tech/blog/hangman-game-python/)
 - [Pygame Documentation](https://www.pygame.org/docs/)
-
----
-
+```
